@@ -22,4 +22,4 @@ A full-stack web application to track your daily expenses, set monthly budgets, 
 > Add screenshots in `/screenshots/` and embed them here using markdown:
 ```md
 ![Dashboard](screenshots/dashboard.png)
-![login](screenshots/login.png)
+![Login](screenshots/login.png)
