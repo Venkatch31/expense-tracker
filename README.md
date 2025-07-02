@@ -16,10 +16,3 @@ A full-stack web application to track your daily expenses, set monthly budgets, 
 - 🔐 Session Management using `express-session` and `connect-mongo`
 
 ---
-
-## 📸 Screenshots
-
-> Add screenshots in `/screenshots/` and embed them here using markdown:
-```md
-![Dashboard](screenshots/dashboard.png)
-![Login](screenshots/login.png)
